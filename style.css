@@ -1,0 +1,22 @@
+header {
+  height: 80px;
+  background: black;
+  text-align: center; 
+  color: white;
+}
+
+body {
+  background: tomato;
+}
+
+img {
+  height: 200px;
+  border: 3px solid white;
+  float: right;
+  margin-left: 35px;
+}
+
+h4 {
+  color: White;
+}
+
